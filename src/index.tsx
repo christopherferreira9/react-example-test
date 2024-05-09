@@ -21,7 +21,7 @@ root.render(
           enabled: true,
         },
         dappMetadata: {
-          name: "Demo React App",
+          name: "ChrisDapp",
           url: window.location.protocol + '//' + window.location.host,
         }
     }}>
